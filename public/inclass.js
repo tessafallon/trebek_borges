@@ -4,17 +4,19 @@ $(document).ready(function() {
   $cards.on("click", function(){ //2
     var $this = $(this);
 
+    $(this).find(".illus").is(":hidden");
+
     if(!$this.hasClass("played") && !$this.hasClass("disabled")) {
       if(!$this.hasClass("chosen")) {
         // 3 change to state chosen
         $this.addClass("chosen"); 
-        $this.find(".question").fadeIn(); //show question
+        $this.find(".illus").fadeIn(); //show question
         $this.find(".value").fadeOut();    //hide value
         // 3 change others state to disabled
         $cards.not(".chosen").addClass("disabled");
-      } else if($this.find(".question").is(":visible")) {
+      } else if($this.find(".illus").is(":visible")) {
         // 4 chosen sub-state
-        $this.find(".question").fadeOut(); //hide question
+        $this.find(".illus").fadeOut(); //hide question
         $this.find(".answer").fadeIn();    //show answer
       } else {
         // 5 change to state played
