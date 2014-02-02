@@ -1,10 +1,12 @@
 $(document).ready(function() {
   var $cards = $(".card").not(".cat-card"); //1
+  
+  $(".illus").hide();
 
   $cards.on("click", function(){ //2
     var $this = $(this);
 
-    $(this).find(".illus").is(":hidden");
+
 
     if(!$this.hasClass("played") && !$this.hasClass("disabled")) {
       if(!$this.hasClass("chosen")) {
