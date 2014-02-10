@@ -26,6 +26,7 @@ class Gambit < Sinatra::Application
 
   post "/games/" do
     @game = Game.new(Deck.new("data/#{params[:deck_file]}.yml"))
+    haml :results
   end
 
   get "/games/:type/:deck_file" do

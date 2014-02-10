@@ -1,53 +1,120 @@
 - value: 200
   category: Categories of Animals
-  illus: /img/antelope.jpg
+  question: One.
   answer: belonging to the emperor
 - value: 200
   category: Zoologica Fantastica
-  illus: /img/monkey.png
+  question: <img src='/img/monkey.png'>
   answer: Monkey of the Inkpot
 - value: 200
   category: John Wilkins
-  illus: de
+  question: de
   answer: element
 - value: 200
   category: Minerals
   illus: 
   answer: Monkey of the Inkpot
 - value: 200
-  category: Titles in the Library of Babel
-  illus: 
+  category: Library of Babel
+  question: 
   answer: asjei;fdkinasetoplwad.dwaq
 - value: 200
-  category: 
-  illus: 
+  category: Forked Paths 
+  question: 
   answer: Monkey of the Inkpot
 - value: 400
   category: Categories of Animals
-  illus: 
+  question:
   answer: Antelope with six legs
-- value: 600
-  category: Categories of Animals
-  illus: 
-  answer: Antelope with six legs
-- value: 800
-  category: Categories of Animals
-  illus: 
-  answer: Antelope with six legs
-- value: 1000
+- value: 200
   category: Zoologica Fantastica
-  illus: 
-  answer: Elephant that foretold the birth of Buddha
-
+  question: <img src='/img/monkey.png'>
+  answer: Monkey of the Inkpot
 - value: 400
   category: Zoologica Fantastica
-  illus: 
+  question: 
   answer: Animals in the form of spheres
+- value: 400
+  category: Library of Babel
+  question: 
+  answer: asjei;fdkinasetoplwad.dwaq
+- value: 400
+  category: Forked Paths 
+  question: 
+  answer: Monkey of the Inkpot
+- value: 400
+  category: John Wilkins
+  question: de
+  answer: element
+- value: 600
+  category: Categories of Animals
+  question: 
+  answer: Antelope with six legs
 - value: 600
   category: Zoologica Fantastica
-  illus: 
+  question: 
   answer: Shaggy beast of La Ferte-Bernard
+- value: 600
+  category: Library of Babel
+  question: 
+  answer: asjei;fdkinasetoplwad.dwaq
+- value: 600
+  category: Forked Paths 
+  question: 
+  answer: Monkey of the Inkpot
+- value: 600
+  category: John Wilkins
+  question: de
+  answer: element
+- value: 600
+  category: Minerals
+  question: de
+  answer: element
+- value: 800
+  category: Categories of Animals
+  question: 
+  answer: Antelope with six legs
 - value: 800
   category: Zoologica Fantastica
-  illus: 
+  question: 
   answer: Peryton
+- value: 800
+  category: Library of Babel
+  question: 
+  answer: asjei;fdkinasetoplwad.dwaq
+- value: 800
+  category: Forked Paths 
+  question: 
+  answer: Monkey of the Inkpot
+- value: 800
+  category: John Wilkins
+  question: de
+  answer: element
+- value: 800
+  category: Minerals
+  question: de
+  answer: element
+- value: 1000
+  category: Zoologica Fantastica
+  question: 
+  answer: Elephant that foretold the birth of Buddha
+- value: 1000
+  category: Categories of Animals
+  question: 
+  answer: Antelope with six legs
+- value: 1000
+  category: Library of Babel
+  question: 
+  answer: asjei;fdkinasetoplwad.dwaq
+- value: 1000
+  category: Forked Paths 
+  question: 
+  answer: Monkey of the Inkpot
+- value: 1000
+  category: John Wilkins
+  question: de
+  answer: element
+- value: 1000
+  category: Minerals
+  question: de
+  answer: element
