@@ -23,11 +23,11 @@ $(document).ready(function() {
       if(!$this.hasClass("chosen")) {
         // 3 change to state chosen
         $this.addClass("chosen"); 
-        if($this.find(".illus").val() != ''){
+        if($this.find(".illus").val() = ''){
           $this.find(".illus").fadeIn();
         });
         else 
-          $this.find(".pltext").fadeIn();
+          $this.find(".illus").fadeIn();
          //show question //if illus is empty show pltext
 
         $this.find(".value").fadeOut();    //hide value

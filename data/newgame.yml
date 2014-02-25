@@ -1,120 +1,120 @@
 - value: 200
   category: Categories of Animals
-  question: One.
+  question: One(a)
   answer: belonging to the emperor
 - value: 200
   category: Zoologica Fantastica
-  question: <img src='/img/monkey.png'>
-  answer: Monkey of the Inkpot
-- value: 200
-  category: John Wilkins
-  question: de
-  answer: element
-- value: 200
-  category: Minerals
-  illus: 
-  answer: Monkey of the Inkpot
-- value: 200
-  category: Library of Babel
-  question: 
-  answer: asjei;fdkinasetoplwad.dwaq
-- value: 200
-  category: Forked Paths 
-  question: 
-  answer: Monkey of the Inkpot
-- value: 400
-  category: Categories of Animals
-  question:
-  answer: Antelope with six legs
-- value: 200
-  category: Zoologica Fantastica
-  question: <img src='/img/monkey.png'>
-  answer: Monkey of the Inkpot
-- value: 400
-  category: Zoologica Fantastica
-  question: 
-  answer: Animals in the form of spheres
-- value: 400
-  category: Library of Babel
-  question: 
-  answer: asjei;fdkinasetoplwad.dwaq
-- value: 400
-  category: Forked Paths 
-  question: 
-  answer: Monkey of the Inkpot
-- value: 400
-  category: John Wilkins
-  question: de
-  answer: element
-- value: 600
-  category: Categories of Animals
-  question: 
-  answer: Antelope with six legs
-- value: 600
-  category: Zoologica Fantastica
-  question: 
+  question: <img src='/img/shaggy_beast.png'>
   answer: Shaggy beast of La Ferte-Bernard
+- value: 200
+  category: Bonifacio Sotos Ochando
+  question: Imaba
+  answer: Building
+- value: 200
+  category: Minerals
+  question: Silica
+  answer: Common
+- value: 200
+  category: Library of Babel
+  question: 
+  answer: asjei;fdkinasetoplwad.dwaq
+- value: 200
+  category: Forked Paths 
+  question: Choose.
+  answer: You live
+- value: 400
+  category: Categories of Animals
+  question: 2(b)
+  answer: Embalmed
+- value: 400
+  category: Zoologica Fantastica
+  question: <img src='/img/antelope.jpg'>
+  answer: Antelope with six legs
+- value: 400
+  category: Bonifacio Sotos Ochando
+  question: Imaca
+  answer: Harem
+- value: 400
+  category: Minerals
+  question: Amber
+  answer: Modics
+- value: 400
+  category: Library of Babel
+  question: 
+  answer: asjei;fdkinasetoplwad.dwaq
+- value: 400
+  category: Forked Paths
+  question: Choose.
+  answer: You die.
+- value: 600
+  category: Categories of Animals
+  question: 6(f)
+  answer: Fabulous
+- value: 600
+  category: Zoologica Fantastica
+  question: <img src="/img/spheres.png">
+  answer: Animals in the form of spheres
+- value: 600
+  category: Bonifacio Sotos Ochando
+  question: Imafe
+  answer: Hospital
+- value: 600
+  category: Minerals
+  question: Arsenic
+  answer: Insoluable
 - value: 600
   category: Library of Babel
   question: 
   answer: asjei;fdkinasetoplwad.dwaq
 - value: 600
   category: Forked Paths 
-  question: 
-  answer: Monkey of the Inkpot
-- value: 600
-  category: John Wilkins
-  question: de
-  answer: element
-- value: 600
-  category: Minerals
-  question: de
-  answer: element
+  question: Choose.
+  answer: You die
 - value: 800
   category: Categories of Animals
-  question: 
-  answer: Antelope with six legs
+  question: 8(h)
+  answer: Included in the present classification
 - value: 800
   category: Zoologica Fantastica
-  question: 
+  question: <img src="/img/peryton.png">
   answer: Peryton
 - value: 800
+  category: Bonifacio Sotos Ochando
+  question: Imafo
+  answer: Pesthouse
+- value: 800
+  category: Minerals
+  question: Cinnabar
+  answer: Imperfect
+- value: 800
   category: Library of Babel
   question: 
   answer: asjei;fdkinasetoplwad.dwaq
 - value: 800
   category: Forked Paths 
-  question: 
-  answer: Monkey of the Inkpot
-- value: 800
-  category: John Wilkins
-  question: de
-  answer: element
-- value: 800
-  category: Minerals
-  question: de
-  answer: element
-- value: 1000
-  category: Zoologica Fantastica
-  question: 
-  answer: Elephant that foretold the birth of Buddha
+  question: Choose.
+  answer: You live.
 - value: 1000
   category: Categories of Animals
-  question: 
-  answer: Antelope with six legs
+  question: 13(m)
+  answer: Having just broken the water pitcher
+- value: 1000
+  category: Zoologica Fantastica
+  question: <img src="/img/elephant.png">
+  answer: Elephant that foretold the birth of Buddha
+- value: 1000
+  category: Bonifacio Sotos Ochando
+  question: Imari
+  answer: House
+- value: 1000
+  category: Minerals
+  question: Filings
+  answer: Recremental
 - value: 1000
   category: Library of Babel
   question: 
   answer: asjei;fdkinasetoplwad.dwaq
 - value: 1000
   category: Forked Paths 
-  question: 
-  answer: Monkey of the Inkpot
-- value: 1000
-  category: John Wilkins
-  question: de
-  answer: element
-- value: 1000
-  category: Minerals
-  question: de
-  answer: element
+  question: Choose.
+  answer: You live.
